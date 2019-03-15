@@ -115,7 +115,7 @@
 		{
 			"productID": "beverage_redbull",
 			"beverage": "true",
-			"product": "Redbull Sugerless Energy Drink",
+			"product": "Redbull Sugarless Energy Drink",
 			"Deal": "$5.99/each",
 			"Saved": "1",
 			"imageURL": "./images/beverage_redbull_un.jpg",
@@ -125,7 +125,7 @@
 		{
 			"productID": "snacks_cheetos",
 			"snack": "true",
-			"product": "Flamin Hot Cheetos",
+			"product": "Flamin' Hot Cheetos",
 			"Deal": "$7.99/lb",
 			"Saved": "2",
 			"imageURL": "./images/snack_cheetos_un.jpg",
