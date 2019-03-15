@@ -277,7 +277,7 @@ function thighsChange(){
 	if(rice_track=='un'){
 		image.src='images/other_rice_pr.jpg';
 		rice_track='pr';	
-		var codebar= "./images/cucoco.png";
+		var codebar= "./images/Cucoco.png";
 		$.post('couponsRen', { codebar: codebar });
 		console.log("posted");
 
